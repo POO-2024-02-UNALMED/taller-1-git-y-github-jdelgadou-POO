@@ -1,0 +1,1 @@
+Como la carpeta llamada archivos ya no se encuentra vacia ahora si se puede hacer commit sin problema alguno, debido a que github no la tenia en cuenta como relevante debido a su estado de vacia. 
