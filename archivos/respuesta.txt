@@ -1,0 +1,1 @@
+Si ocurrió un problema ya que no se pudo hacer commit de la carpeta llamada archivo.
