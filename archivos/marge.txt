@@ -1,3 +1,3 @@
 Jhoneyker Delgado Urbina, tengo 17 años, aspiro con está materia poder comprender y dominar un nuevo paradigma de programación como lo es OOP, además de reforzar mis conocimientos en java y python.
 Como la carpeta llamada archivos ya no se encuentra vacia ahora si se puede hacer commit sin problema alguno, debido a que github no la tenia en cuenta como relevante debido a su estado de vacia. 
-Se debe tener cuidado al modificar archivos desde distintos lugares ya que pueden surgir conflictos, es decir, pueden haber distintos cambios en el mismo archivo.
+Se debe tener cuidado al modificar archivos desde distintos lugares ya que pueden surgir conflictos, es decir, pueden haber distintos cambios en los mismos archivos.
